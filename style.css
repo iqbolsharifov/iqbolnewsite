@@ -1,0 +1,86 @@
+body {
+    width: 800px;
+    background-color: ghostwhite;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-left: 20px;
+    border-top: 20px;
+    border-right: 20px;
+    border-bottom: 20px;
+    border-bottom-color: greenyellow;
+    border-color: Pink;
+    
+   
+}
+
+img{
+    width: 263px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+h1{
+    color: beige;
+    background-color: black;
+    
+}
+p{
+    color: beige;
+    background-color: black;
+}
+
+small{
+    color: beige;
+    background-color: black;
+}
+
+h{
+    color: beige;
+    background-color: black;
+}
+
+button{
+    background-color: yellow;
+    color: green;
+    width: 200px;
+    height: 200px;
+    width: 250px;
+    height: 20px;
+}
+input{
+    background-color: yellowgreen;
+    
+    
+}
+table{
+    height: 500px;
+    color: red;
+    background-color: yellow;
+    
+    
+}
+input{
+    color: black;
+}
+bdo{
+    background-color: Gr;
+}
+details{
+    width: 500px;
+    background-color: black;
+    height: 20px;
+    font-size-adjust: 200px;
+    color: red;
+}
+marquee{
+    background-color: black;
+    color: pink;
+    width: 1000px;
+    size: 1000px;
+    font-size: 50px;
+    
+}
+
